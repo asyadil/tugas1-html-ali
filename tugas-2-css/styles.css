@@ -1,0 +1,55 @@
+.ttl {
+  border: 2px solid rgba(0, 0, 0, 0);
+  border-radius: 20px;
+  margin: auto;
+  padding: 20px;
+  width: 900px;
+  height: fit-content;
+  box-shadow: 0px 0px 5px;
+}
+
+#logo {
+  width: 90px;
+}
+
+.line {
+  font-size: large;
+  text-align: left;
+  color: rgb(19, 113, 255);
+}
+
+.box {
+  border: 2px solid rgba(0, 0, 0, 0);
+  width: 1000px;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 0px 0px 2px;
+}
+
+.bx2 {
+  width: fit-content;
+box-shadow: 0px 0px 5px;
+}
+
+.pctr {
+  border: 2px solid rgba(0, 0, 0, 0);
+  width: fit-content;
+  border-radius: 100px;
+  margin: 20px;
+  width: 190px;
+}
+
+.cont {
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  width: fit-content;
+  /* background-color: rgb(247, 112, 112); */
+  /* box-shadow: 0px 0px 5px;
+  border-radius: 20px; */
+}
+
+.left {
+    text-align: left;
+}
